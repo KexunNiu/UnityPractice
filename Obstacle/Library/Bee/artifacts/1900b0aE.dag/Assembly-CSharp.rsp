@@ -359,6 +359,7 @@
 "Assets/Script/Mover.cs"
 "Assets/Script/ObjectHit.cs"
 "Assets/Script/Scorer.cs"
+"Assets/Script/Spinner.cs"
 -langversion:9.0
 
 /deterministic
